@@ -53,7 +53,41 @@ public-api.wordpress.com
 jetpack.wordpress.com
 simplywordpress.net
 
+# Funny
+14juni.ch
+www.14juni.ch
 
 # ??
 secure.gravatar.com
-1.gravatar.com
+1.gravatar.com 
+gstatic.com
+www.gstatic.com
+safebrowsing.googleapis.com
+r5.sn-1gi7znek.googlevideo.com
+ocsp.apple.com
+photos-ugc.l.googleusercontent.com
+ocsp-a.g.aaplimg.com
+e17437.dsct.akamaiedge.net
+a1806.dscb.akamai.net
+e69896.dscapi6.akamaiedge.net
+inappcheck.itunes.apple.com
+gspe35-ssl.ls.apple.com
+gsp-ssl.ls.apple.com
+get-bx.g.aaplimg.com
+p57-quota.icloud.com
+_bookmarkdavs._tcp.p57-bookmarks.icloud.com
+quota.fe.apple-dns.net
+gateway.fe.apple-dns.net
+gsp64-ssl.ls-apple.com.akadns.net
+p57-bookmarks.icloud.com
+e673.dsce9.akamaiedge.net
+gsp64-ssl.ls.apple.com
+e6858.dscx.akamaiedge.net
+www.apple.com
+apple.com
+e4478.a.akamaiedge.net
+eu-central-courier-4.push-apple.com.akadns.net
+3-courier.push.apple.com
+20-courier.push.apple.com
+36-courier.push.apple.com
+smp-device-content.apple.com
